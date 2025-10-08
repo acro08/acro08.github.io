@@ -6,27 +6,27 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: es-ES
 
-# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+# Change to your timezone › https://zones.arilyn.cc
+timezone: America/Mexico_City
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Schizoid Blogposting # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Gibberish at its maximum and glorified performance, but contained # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://acro08.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: acro08 # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Carlos Castillo
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -95,10 +95,10 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "https://instagram.fcvj2-1.fna.fbcdn.net/v/t51.2885-19/561293403_18159149947389895_6523688449263367007_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcvj2-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QFdb2_37xD5w2t2ujuD35lfJcoEQ58nmVPn_q1k-YFFTERnCj-OWBYhET9XFBkDwfn4SB-cNqoKD0kArwZr2IF2&_nc_ohc=aZWVi0J6SeEQ7kNvwEDUeML&_nc_gid=PcW3JOKAAMDjC5R7YKrSMQ&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AffG_MPwGXaURpvq0BjoRS4-oYjjm3Xp1aEI5qrjluSbew&oe=68EC804B&_nc_sid=7a9f4b"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
