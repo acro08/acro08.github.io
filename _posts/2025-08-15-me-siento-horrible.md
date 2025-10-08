@@ -1,0 +1,39 @@
+---
+title: "Welcome to My New Blog"
+date: 2025-08-15 12:00:00 -0800
+categories: [poems_kindof, español]
+tags: [sozinho,tristeza]
+---
+
+me siento horrible
+no puedo conmigo 
+no se que me pasa 
+pero siento que no quiero estar vivo
+
+tal vez me duele el cuerpo 
+y me pesen los ojos
+pero no entiendo porqué
+mi cuerpo entero no tolero
+
+mi mente está cansada 
+de tanto buscar entender
+y de solo encontrar mas preguntas
+que resolver
+
+no logro lidiar con tanto discurso bajo,
+con tanta negatividad,
+la renuencia a cooperar 
+o del otro el placer buscar
+
+estar solo no me duele
+encontrarme aislado no me mata
+pero recordar que en mis terminos 
+no hay quien me busque
+hace que la muerte no suene tan agridulce
+
+ojalá no buscara ser entendido
+separarme de querer ser visto
+ojala nunca hubiera encontrado 
+de donde mis lagrimas se han originado
+
+<!--more-->
