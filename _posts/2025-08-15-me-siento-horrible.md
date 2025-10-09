@@ -17,9 +17,7 @@ mi cuerpo entero no tolero
 
 mi mente está cansada 
 de tanto buscar entender
-y de solo encontrar mas preguntas
-que resolver
-
+y de solo encontrar mas preguntas que resolver
 no logro lidiar con tanto discurso bajo,
 con tanta negatividad,
 la renuencia a cooperar 
@@ -29,11 +27,12 @@ estar solo no me duele
 encontrarme aislado no me mata
 pero recordar que en mis terminos 
 no hay quien me busque
-hace que la muerte no suene tan agridulce
+hace que la muerte no suene tan amarga
 
 ojalá no buscara ser entendido
 separarme de querer ser visto
-ojala nunca hubiera encontrado 
-de donde mis lagrimas se han originado
+ojala nunca haber encontrado 
+de donde mis lagrimas se han filtrado
+
 
 <!--more-->
