@@ -7,7 +7,10 @@ author: acro
 description: Lo escribí con el cuerpo enfermo, cansado y adolorido 
 ---
 
-{% include embed/{spotify}.html id='{5TB6QgrF0RPIxSCGfRDLoe?si=f2b8ea5b17d34ee8}' %}
+{% include embed/spotify.html id='5TB6QgrF0RPIxSCGfRDLoe' compact=1%}
+
+
+<div class="poema">
 
 tal vez me duele el cuerpo
 y me pesen los ojos
@@ -38,5 +41,6 @@ y cuido no dejar de hacerlo
 así, pues, soy tan fuerte como frágil y no me importa
 solo aquellos que me busquen donde no los guío encontraran donde aún soy frágil y tímido
 para ese punto estaré bien siendo destruido por alguien que tanta importancia me ha otorgado
+</div>
 
 <!--more-->
