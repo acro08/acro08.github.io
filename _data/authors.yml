@@ -5,6 +5,9 @@
 #   twitter: {twitter_of_author}
 #   url: {homepage_of_author}
 # -------------------------------------
+acro:
+  name: Carlos Castillo
+  url: https://github.com/acro08
 
 cotes:
   name: Cotes Chung
