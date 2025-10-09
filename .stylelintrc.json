@@ -8,7 +8,7 @@
     "property-no-vendor-prefix": null,
     "selector-no-vendor-prefix": null,
     "value-no-vendor-prefix": null,
-    "color-function-notation": "legacy",
+    "color-function-notation": "modern",
     "alpha-value-notation": "number",
     "selector-not-notation": "simple",
     "color-hex-length": "long",
