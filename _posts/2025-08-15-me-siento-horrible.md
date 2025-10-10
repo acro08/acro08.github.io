@@ -12,9 +12,9 @@ description: Esto lo escribí con el cuerpo enfermo, cansado y adolorido
 
 <div class="poema">
 
-  me siento horrible,
-  no puedo conmigo, 
-  no se que me pasa, 
+  me siento horrible
+  no puedo conmigo
+  no se que me pasa
   siento que no quiero estar vivo.
   tal vez me duele el cuerpo y me pesen los ojos
   pero no entiendo porqué, mi cuerpo entero no tolero.
