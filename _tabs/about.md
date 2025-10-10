@@ -40,7 +40,7 @@ no se, lo dudo, tal vez si mi enfoque me da para ponerme de riguroso con mi gram
 
 # Que hacer con la musica / videos / imagenes
 
-Preveo que adjuntaré otros medios, haré referencias o las mencionaré, en esos casos pues te invito a que les des una oportunidad y tal vez les encuentres algun valor asi como yo lo hice. Y si no? pues me viene valiendo madres jaaajja, yo ya les di visita y a mi me gustaron por algo.
+Preveo que adjuntaré otros medios, haré referencias o las mencionaré, en esos casos pues te invito a que les des una oportunidad y tal vez les encuentres algun valor asi como yo lo hice. Y si no? pues me viene valiendo madres jaaajja, ya enserio pues dales un try or not i don't mind it. yo ya les di visita y a mi me gustaron por algo.
 
 
 
