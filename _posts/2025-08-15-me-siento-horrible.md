@@ -4,7 +4,7 @@ date: 2025-08-15 12:00:00 -0600
 categories: [Español, Blog]
 tags: []
 author: acro 
-description: Lo escribí con el cuerpo enfermo, cansado y adolorido 
+description: Esto lo escribí con el cuerpo enfermo, cansado y adolorido 
 ---
 
 {% include embed/spotify.html id='5TB6QgrF0RPIxSCGfRDLoe' compact=1 %}
