@@ -1,5 +1,5 @@
 ---
-title: "last log of the 24'"
+title: "Last log of the 24'"
 date: 2024-11-28 23:48:26 -0600
 categories: [Español,Blog]
 tags: []
