@@ -9,7 +9,7 @@ description: Hoy salió el heroe en rivals y me dio por escribir respecto a mi f
 
 {% include embed/spotify.html id='4t20umh0eSuYstasrSl2HV' compact=1 %}
 
-# Mi super heroe favorito... Daredevil, O DIABO OUSADO. jajajajaj
+## Mi super heroe favorito... Daredevil, O DIABO OUSADO. jajajajaj
 
 sin mencionar su intro, esa intro es magnifica, el sonido palpitante, los subgraves ambientales, LA SANGRE CARAJO, LA SANGRE.
 
@@ -29,9 +29,9 @@ La historia del diablo de hells kitchen, no es una de un superheroe haciendo gra
 Una condena desgarradora vivir no por amor a la vida, pero porque el suicidio no lo vale.
 Tambien un ciego con hipersensibilidad y maestro del cuerpo a cuerpo es un gran concepto, sin mencionar que su diseño da gran espacio para ilustraciones, escenificacion y en general expresion artistica de gran calidad creativa, UNA PERRA BELLEZA CARAJO. 
 
-# MIRALA HACETE UN FAVOR Y MIRALA
+## MIRALA HACETE UN FAVOR Y MIRALA
 Este tipo pretty much summs up a lot of the things that this show is one that i like the most, i highly sugest to watch the show instead, maybe this video will serve as a help to make some sense about where im coming from talking into why i like this story so much. 
 
-{% include embed/youtube.html id='9I_HNX25EWU' %}
+
 
 
