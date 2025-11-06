@@ -17,7 +17,7 @@ Hace poco al regresar a mi computadora, me dio por darle una limpieza a la carpe
 mientras borraba imagenes borrosas, capturas accidentales, memes envejecidos que ya no tenian sentido. encontré cosas que destaparon como vino añejado sentimientos que me habian cambiado cuando tomaron lugar...
 
 # Madeline
-
+![Desktop View](https://scontent.cdninstagram.com/v/t51.82787-15/571907028_18162863575389895_68634034118933783_n.webp?_nc_cat=111&ig_cache_key=Mzc1NjgxMzU3NDk0NTY4MjQ0Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTY2LnNkci5DMyJ9&_nc_ohc=blCrzChBDRYQ7kNvwHO8cbJ&_nc_oc=Adk0AQ6RDln0HEFPB7VazQJpv3xyjRRQldvogJITZjgZiFwH28y4MhyJ--sHw77gJoAjNMiStUUOEuNzBX3SiwUm&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PLGEuubIcPIlFY6dVTVgoA&oh=00_Afg_wGRKATDD8vKkD2pX7MvIRnzRQsSfSEO35rqoFYgY2g&oe=6912DD6C){: width="700" height="400" }
 
 no creeria que ya pasaron 4 años de que me pasé ese juego, aun no creo que sea tiempo de revisitarlo, pues aun tengo recuerdos vividos de lo que era. y de lo que evocó en mi...
 Me regresó el amor por el color, recuerdo como en cuestion de un par de años tal vez mas tal vez menos. mi gusto por el gris y el negro aumento, mas por apatia a los colores. De alguna manera que quiero entender fue atravez de la frustracion de mi propia inhabilidad junto con el sentimiento de recompensa por aprender a jugar, me hizo apreciar que no fuese solo un pasillo donde la habilidad es solamente un extra que te salva tiempo desperdiciado, y pasó a ser un requisito para acceder a el resto de su historia y gameplay.
@@ -30,6 +30,7 @@ Pero desde entonces, Mi ome Madeline esta siempre ahi, de fondo en la cima del m
 Esto me recuerda a...
 
 # League
+![Desktop View](https://scontent.cdninstagram.com/v/t51.82787-15/571485943_18162863584389895_2165948950254533183_n.webp?_nc_cat=102&ig_cache_key=Mzc1NjgxMzU3NDQ0MjM0NTMzNQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTY2LnNkci5DMyJ9&_nc_ohc=_gubxgbFWlkQ7kNvwESf2MH&_nc_oc=AdnORb7mQaa4pJcfXQLMJmBDvBeOCzHZ2H7uHA0iOYg9swLWxB0ZQ9WcMYCqDhSKLAfrBGZS9PfOLMYe4WTN22RT&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PLGEuubIcPIlFY6dVTVgoA&oh=00_Afgotd0o8lzYL2hrY-oZuI8wqW_JUgPyX9Lm5ouKXfdLXQ&oe=69131006){: width="700" height="400" }
 
 es inquietante pensar sobre esto, este juego indirectamente me ha dado tanto, aunque pensandolo un poco no se si yo le he dado más.
 tiene un mundo, una historia increiblemente rica y bonita por explorar; me ha dado a mis mejores amigos, preciosos recuerdos, si me presionas diria que hasta un amor...
@@ -41,8 +42,8 @@ Alienacion se le llama, este termino no lo aprendi de este juego, ni que fuera d
 y bueno en ese viaje sin final, salí por mi propia voluntad, sin que nadie me pidiera dejarlo, aunque ya personas, compromisos y otras cosas lo habian intentado. de hecho creo que lo dejé en el momento donde por pocos y risibles que fueran, mas he tenido razon para seguir dandole como enfermito.
 No lo vale, es una pena pues me trae buenos recuerdos, me tomo años aprender a jugarlo, aun tengo amigos ahi, pero es de esas cosas que por mucho que se sientan bien yo sé, siento como ese juego, de la forma en que lo usaba no es parte de la vida que quiero, una lastima.
 
-# Pirateria y The heavy
-
+# Pirateria y The Heavy
+![Desktop View](https://scontent.cdninstagram.com/v/t51.82787-15/573703035_18162863593389895_4875544057402967151_n.webp?_nc_cat=101&ig_cache_key=Mzc1NjgxMzU3NDUwMTA5MDgxNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4ODEwLnNkci5DMyJ9&_nc_ohc=rNZkdkJEREcQ7kNvwHRIxTg&_nc_oc=AdlgsjHPl9X3UFVOwhFkLunXNmng7lA3spCNOJ-VLhKmsgZWbAuhD7oobxjwvERBph7f9kM7Z8i6dgQBLXGE7lSf&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PLGEuubIcPIlFY6dVTVgoA&oh=00_AfgLjYYFDLIFaeUfb6zvlx3r1FQQVSlIzVi6J5SAE3VMIA&oe=6912ED24){: width="700" height="400" }
 
 La musica me es un hobby que entraño mucho, no es que sea mi pasion, no quiero gastar todo mi tiempo en ella y siempre me ha quedado claro que de la musica no quiero vivir. mi gusto por ella nace independiente de una necesidad de ser, simplemente me gusta y si me presionas para mencionar algun provecho que le haya sacado podria decir que ha sido encontrar mis emociones y sentimientos en muchas partes de obras de otras personas. desarrollar mi empatia podria decirle.
 de hecho ni me gusta saber que se les dice melomanos a los que gustan de la musica como objeto de consumo ludico o lo que sea y audiofilos a los que se obsesionan por gusto con la parte tecnica de producir y consumir atraves de hardware y software la musica. o algo asi recuerdo... en general las etiquetas, la compulsion de segmentar a una persona por sus gustos, caracterizticas y sesgos me disgusta, hasta me molesta.
@@ -71,3 +72,5 @@ de cierta manera es el espacio que mas mio siento, mas tocado por mi. y todo eso
 a veces mirar al escritorio veo las cosas que descargué para cosa de 1 minuto, cosas que probé y desinstalé pero sigue su acceso fantasma ahi postrado, cosas que nunca probé y quedaron en el olvido, otras que no he dejado de usar, unas nuevas que empiezo a integrar, algunas que ni mias son.
 No se a donde se iran todos estos recuerdos cuando me separe de este objeto, pero por mientras, cuando los veo, son un recuerdo de que a mi manera estoy viviendo.
 
+
+![Desktop View](https://scontent.cdninstagram.com/v/t51.82787-15/570943506_18162863632389895_6761730554901360194_n.webp?_nc_cat=108&ig_cache_key=Mzc1NjgxMzU3NDQ0MjMyNTM4MQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4ODEwLnNkci5DMyJ9&_nc_ohc=CcqNC8G5NLIQ7kNvwF8TlnY&_nc_oc=AdkNpfwT7UFPeTP7JvyhY-Y_Fkt0n29oygZ65bBDnSfIrhCncnFBXbWv_FrO73iRx184Eo5RCPJg6gp9Ad_8NkCK&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=PLGEuubIcPIlFY6dVTVgoA&oh=00_AfjFYrr-P8E9hwmwf52jhyv5BB2dpdOR8VzFlGvqKujeaw&oe=6912EF42){: width="700" height="400" }
