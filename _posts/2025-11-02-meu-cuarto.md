@@ -1,7 +1,7 @@
 ---
 title: Mi cuarto digital
 author: acro
-date: 2025-10-15 23:48:55 -0600
+date: 2025-11-05 17:05:11 -0600
 categories: [Español,Blog]
 tags: []
 description: Escrito en la primer semana de noviembre
