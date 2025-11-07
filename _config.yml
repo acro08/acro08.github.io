@@ -98,8 +98,7 @@ theme_mode: # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://instagram.fcvj2-1.fna.fbcdn.net/v/t51.2885-19/561293403_18159149947389895_6523688449263367007_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcvj2-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QFdb2_37xD5w2t2ujuD35lfJcoEQ58nmVPn_q1k-YFFTERnCj-OWBYhET9XFBkDwfn4SB-cNqoKD0kArwZr2IF2&_nc_ohc=aZWVi0J6SeEQ7kNvwEDUeML&_nc_gid=PcW3JOKAAMDjC5R7YKrSMQ&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AffG_MPwGXaURpvq0BjoRS4-oYjjm3Xp1aEI5qrjluSbew&oe=68EC804B&_nc_sid=7a9f4b"
-
+avatar: "https://instagram.fcvj2-1.fna.fbcdn.net/v/t51.2885-19/562545177_18160068838389895_693866860279160370_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcvj2-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QFD_Ty8HQCwZEQ1ywqP_cCtmS4C412_UWUaFpXlOCS4XpK6__WdNemXUV0_pO4CkbFxyg_SzswD_7Bljq7JHnpj&_nc_ohc=asnpgMEidHgQ7kNvwGQKwMt&_nc_gid=W8CChx7-T8me-vXiA7n-hw&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AfjcowMx4-m7-10JE7whgD45PCiGkgPN67pCbTxH99WFXw&oe=6913194B&_nc_sid=22de04"
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
